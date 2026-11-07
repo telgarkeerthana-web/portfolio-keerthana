@@ -1,0 +1,141 @@
+{
+    "personal": {
+        "name": "shinchan",
+        "course": "BCA 1st Year Student",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWszUrHnkNi1xphLHyMGFf2suJ3mYN0F1bmonj0LKLLA&s=10",
+        "introduction": "Hello! I am a passionate BCA student interested in web development and programming. I enjoy learning new technologies and creating attractive websites.",
+        "careerGoal": "To become a professional Full Stack Web Developer.",
+        "email": "shinchan@gmail.com",
+        "phone": "+91 9876543210",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "description": "I am currently pursuing Bachelor of Computer Applications (BCA). I have a strong interest in technology, programming and website development. I am learning HTML, CSS, JavaScript, Bootstrap, C and C++. My objective is to improve my technical skills, work on real-world projects and build a successful career in the IT industry."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "description": "Creating website structures."
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "description": "Designing attractive websites."
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "description": "Adding dynamic functionality."
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "description": "Building responsive layouts."
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-slash",
+            "description": "Learning programming fundamentals."
+        },
+        {
+            "name": "C++",
+            "icon": "bi bi-filetype-cpp",
+            "description": "Understanding object-oriented programming."
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=700",
+            "description": "A responsive personal portfolio website to showcase my introduction, skills, projects and education.",
+            "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Dessert Paradise",
+            "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=700",
+            "description": "A beautiful dessert website displaying delicious desserts with attractive cards and responsive design.",
+            "technologies": ["HTML", "CSS", "Flexbox", "Grid"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "ShopZone Ecommerce",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=700",
+            "description": "An ecommerce website with product cards, search functionality and add-to-cart features.",
+            "technologies": ["HTML", "CSS", "JavaScript", "JSON"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Registration Form",
+            "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=700",
+            "description": "A student registration form with input fields and JavaScript form validation.",
+            "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "degree": "Bachelor of Computer Applications (BCA)",
+            "college": "PC Jabin",
+            "semester": "1st Year - 1st Semester",
+            "year": "2026 - Present",
+            "details": "Currently pursuing BCA with an interest in programming, computer applications and web development."
+        },
+        {
+            "degree": "Higher Secondary Education",
+            "college": "Samarth",
+            "semester": "12th Standard",
+            "year": "2025 - 2026",
+            "details": "Completed higher secondary education."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi bi-award"
+        },
+        {
+            "name": "JavaScript Basics",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi bi-patch-check"
+        },
+        {
+            "name": "Introduction to C Programming",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi bi-mortarboard"
+        }
+    ],
+
+    "social": [
+        {
+            "name": "GitHub",
+            "icon": "bi bi-github",
+            "link": "https://github.com/yourusername"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi bi-linkedin",
+            "link": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi bi-instagram",
+            "link": "https://www.instagram.com/"
+        },
+        {
+            "name": "Email",
+            "icon": "bi bi-envelope",
+            "link": "mailto:yourname@gmail.com"
+        }
+    ]
+}
